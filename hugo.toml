@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/meow-logic/meow-logic.github.io'
+languageCode = 'en-us'
+title = 'My New Site Built with Hugo'
+theme = 'ananke'
